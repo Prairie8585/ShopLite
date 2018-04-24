@@ -5,6 +5,6 @@
 <body>
 	<div class="generic-container">
 		<div class="alert alert-success lead">${success}</div>
-		<span class="well floatRight"> Go to <a	href="<c:url value='/' />">Home Page</a></span>
+		<span class="well floatRight"> Go to <a	href="<c:url value='/adminProfile' />">Home Page</a></span>
 	</div>
 </body>

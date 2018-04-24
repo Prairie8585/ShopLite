@@ -45,7 +45,7 @@
 			<br>
 			<div class="row">
 				<div class="form-group col-md-12">
-					<label class="col-md-3" for="file">Add Main picture:</label>
+					<label class="col-md-3" for="file">Add Picture:</label>
 					<div class="col-md-7">
 						<form:input type="file" path="files" id="files[0]"
 							class="form-control input-sm" />
