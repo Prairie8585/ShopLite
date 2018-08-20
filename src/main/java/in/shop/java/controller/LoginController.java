@@ -237,7 +237,6 @@ public class LoginController {
 		}
 		return userName;
 	}
-	
 	/**
 	 * This method returns true if users is already authenticated [logged-in], else false.
 	 */

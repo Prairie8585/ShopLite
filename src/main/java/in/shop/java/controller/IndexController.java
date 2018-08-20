@@ -51,6 +51,7 @@ public class IndexController {
         model.addAttribute("category", categories);
 		
 		return "index";
+		
 	}
 	
 }

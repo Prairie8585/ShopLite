@@ -131,4 +131,5 @@ public class SearchController {
 		
 		return "index";
 	}
+	
 }

@@ -70,5 +70,4 @@ public class OrderController {
         model.addAttribute("success", "Your order registered successfully!");
 		return "registrationSuccess";
 	}
-
 }

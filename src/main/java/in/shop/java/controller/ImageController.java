@@ -36,4 +36,5 @@ public class ImageController {
 		pictureService.deletePictureById(id);
 		return "redirect:/adminProfile";
 	}
+	
 }

@@ -38,4 +38,5 @@ public class PictureDaoImpl extends AbstractDao<Integer, Picture> implements Pic
 		Picture picture = (Picture)crit.uniqueResult();
 		delete(picture);
 	}
+	
 }
